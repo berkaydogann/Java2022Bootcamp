@@ -1,6 +1,6 @@
 package Week1;
 
-public class mukemmelSayi {
+public class MukemmelSayi {
 
 	public static void main(String[] args) {
 		int number = 5;

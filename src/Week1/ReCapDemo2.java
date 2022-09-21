@@ -1,6 +1,6 @@
 package Week1;
 
-public class reCapDemo2 {
+public class ReCapDemo2 {
 
 	public static void main(String[] args) {
 		double[] myList = {1.2, 6.3, 4.3, 5.6};

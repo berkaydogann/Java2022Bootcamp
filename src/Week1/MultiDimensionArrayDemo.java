@@ -1,6 +1,6 @@
 package Week1;
 
-public class multiDimensionArrayDemo {
+public class MultiDimensionArrayDemo {
 
 	public static void main(String[] args) {
 		String[][] sehirler = new String[3][3];

@@ -1,6 +1,6 @@
 package Week1;
 
-public class dataTypes {
+public class DataTypes {
 
 	public static void main(String[] args) {
 		double sayi = 1.5;

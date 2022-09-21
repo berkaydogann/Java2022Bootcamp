@@ -1,6 +1,6 @@
 package Week1;
 
-public class variables {
+public class Variables {
 
 	public static void main(String[] args) {
 		int ogrenciSayisi = 11;
