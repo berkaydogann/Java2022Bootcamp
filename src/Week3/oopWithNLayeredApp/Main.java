@@ -16,7 +16,7 @@ public class Main {
 		Product product1 = new Product(1, "Apple 12", 10000);
 
 		Logger[] loggers = {new DatabasesLoger(), new MailLogger() };
-		ProductManager productManager = new ProductManager(new JdbcProductDao(), loggers);
+		ProductManager productManager = new ProductManager(new HibernateProductDao(), loggers);
 		productManager.add(product1);
 	}
 
